@@ -47,7 +47,7 @@ Our decentralized gateway offers a one-stop solution for businesses seeking fina
 * **Avoid Payment Bans**: Operate freely without restrictions from banks or traditional processors.
 * **Reduce Costs**: Enjoy transaction fees as low as 0.5%, saving significantly compared to legacy systems.
 * **Achieve Global Reach**: Accept payments in Bitcoin (BTC), Ethereum (ETH), USDT, and more from 195+ countries.
-* **Secure Your Business**: Protect against fraud with blockchain-backed transactions and privacy-first infrastructure.<br>
+* **Secure Your Business**: Protect against fraud with blockchain-backed transactions and privacy-first infrastructure.<br><br>
 Take control of your payments today with PayRam—your trusted partner for decentralized financial freedom! 
 
 ---
