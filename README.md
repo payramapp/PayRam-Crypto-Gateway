@@ -22,7 +22,7 @@ PayRam empowers high-risk businesses to accept secure, no-KYC crypto payments wi
 ✅ **Ideal for High Risk Businesses - [Casinos](https://payram.com/industry/casino), [iGaming](https://payram.com/industry/igaming), [Adult](https://payram.com/industry/adult), [eCommerce](https://payram.com/industry/e-commerce), [Marketplace](https://payram.com/industry/marketplace), [Charity](https://payram.com/industry/charity)**
 
 ## Quick Links
-▶️ [Live Demo](https://payram.com/demo)  
+▶️ [Live Demo] - Coming soon...
 📚 [Full Documentation](https://docs.payram.com)  
 💼 [Blog](https://payram.com/blog)
 
