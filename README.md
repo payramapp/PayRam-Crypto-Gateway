@@ -5,7 +5,6 @@ Official technical resources for PayRam's self-hosted cryptocurrency payment inf
 [![Documentation Status](https://img.shields.io/badge/docs-latest-brightgreen)](https://docs.payram.com)
 [![Website](https://img.shields.io/badge/visit-payram.com-blue)](https://payram.com)
 
-**Enterprise-Grade Crypto Payment Solutions with Full Infrastructure Control**
 PayRam empowers high-risk businesses to accept secure, no-KYC crypto payments with full ownership, reduced fees, and operate globally, with zero third-party risks.
 
 ## Key Features
@@ -53,6 +52,6 @@ Take control of your payments today with PayRam—your trusted partner for decen
 
 ---
 
-📫 **Contact**: [dev@payram.com](mailto:dev@payram.com)
-🌍 **Website**: [https://payram.com](https://payram.com)
+📫 **Contact**: [dev@payram.com](mailto:dev@payram.com)<br>
+🌍 **Website**: [https://payram.com](https://payram.com)<br>
 **Social**: [Linkedin](https://www.linkedin.com/company/payram), [Twitter](https://x.com/PayRamApp), [Pinterest](https://in.pinterest.com/PayRamApp/), [Medium](https://medium.com/@payramapp), [Facebook](https://www.facebook.com/people/PayRam/61574004286648/), [Spotify](https://open.spotify.com/show/6K7ajaoYt24wJQ2HSi8Axw?si=40b9d8a35c2b4992)
