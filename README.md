@@ -52,6 +52,6 @@ Take control of your payments today with PayRam—your trusted partner for decen
 
 ---
 
-📫 **Contact**: [dev@payram.com](mailto:dev@payram.com)<br>
-🌍 **Website**: [https://payram.com](https://payram.com)<br>
+**Contact**: [dev@payram.com](mailto:dev@payram.com)<br><br>
+**Website**: [https://payram.com](https://payram.com)<br><br>
 **Social**: [Linkedin](https://www.linkedin.com/company/payram), [Twitter](https://x.com/PayRamApp), [Pinterest](https://in.pinterest.com/PayRamApp/), [Medium](https://medium.com/@payramapp), [Facebook](https://www.facebook.com/people/PayRam/61574004286648/), [Spotify](https://open.spotify.com/show/6K7ajaoYt24wJQ2HSi8Axw?si=40b9d8a35c2b4992)
