@@ -21,8 +21,8 @@ PayRam empowers high-risk businesses to accept secure, no-KYC crypto payments wi
 ✅ **Ideal for High Risk Businesses - [Casinos](https://payram.com/industry/casino), [iGaming](https://payram.com/industry/igaming), [Adult](https://payram.com/industry/adult), [eCommerce](https://payram.com/industry/e-commerce), [Marketplace](https://payram.com/industry/marketplace), [Charity](https://payram.com/industry/charity)**
 
 ## Quick Links
-▶️ [Live Demo] - Coming soon...
-📚 [Full Documentation](https://docs.payram.com)  
+▶️ [Live Demo] - Coming soon...<br>
+📚 [Full Documentation](https://docs.payram.com) <br>
 💼 [Blog](https://payram.com/blog)
 
 ## Implementation Overview
@@ -36,18 +36,18 @@ PayRam empowers high-risk businesses to accept secure, no-KYC crypto payments wi
 ---
 
 ## Developer Resources
-- [API Reference](https://docs.payram.com/developers/api-reference))
+- [API Reference](https://docs.payram.com/developers/api-reference)
 - [SDK Packages](https://docs.payram.com/sdks)
 - [Security Audit Reports](https://docs.payram.com/security)
 
 ---
 
 ## Why Choose PayRam?
-Our decentralized gateway offers a one-stop solution for businesses seeking financial autonomy. With PayRam, you can: 
+Our decentralized gateway offers a one-stop solution for businesses seeking financial autonomy. With PayRam, you can:<br>
 * **Avoid Payment Bans**: Operate freely without restrictions from banks or traditional processors.
 * **Reduce Costs**: Enjoy transaction fees as low as 0.5%, saving significantly compared to legacy systems.
 * **Achieve Global Reach**: Accept payments in Bitcoin (BTC), Ethereum (ETH), USDT, and more from 195+ countries.
-* **Secure Your Business**: Protect against fraud with blockchain-backed transactions and privacy-first infrastructure.
+* **Secure Your Business**: Protect against fraud with blockchain-backed transactions and privacy-first infrastructure.<br>
 Take control of your payments today with PayRam—your trusted partner for decentralized financial freedom! 
 
 ---
