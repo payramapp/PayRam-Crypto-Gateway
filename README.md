@@ -12,13 +12,13 @@ PayRam empowers high-risk businesses to accept secure, no-KYC crypto payments wi
 ✅ **Self-Hosted Payment Gateway**  
 ✅ **Multi-Chain Support ([BTC](https://payram.com/token/btc), [ETH](https://payram.com/token/eth), [TRX](https://payram.com/token/trx), [SOL](https://payram.com/token/sol), [USDT](https://payram.com/token/usdt))**  
 ✅ **Smart Contract Consolidation**  
-✅ **Unified Financial Dashboard**
-✅ **Slash Transaction Fees (0.5% vs 3%+)**
-✅ **Global Access to 195+ Countries**
-✅ **Instant International Settlements**
-✅ **Bypass Payment Bans**
-✅ **Fraud-Proof Blockchain Security**
-✅ **Complete Data & User Privacy**
+✅ **Unified Financial Dashboard**<br>
+✅ **Slash Transaction Fees (0.5% vs 3%+)** <br>
+✅ **Global Access to 195+ Countries**<br>
+✅ **Instant International Settlements**<br>
+✅ **Bypass Payment Bans**<br>
+✅ **Fraud-Proof Blockchain Security**<br>
+✅ **Complete Data & User Privacy**<br>
 ✅ **Ideal for High Risk Businesses - [Casinos](https://payram.com/industry/casino), [iGaming](https://payram.com/industry/igaming), [Adult](https://payram.com/industry/adult), [eCommerce](https://payram.com/industry/e-commerce), [Marketplace](https://payram.com/industry/marketplace), [Charity](https://payram.com/industry/charity)**
 
 ## Quick Links
